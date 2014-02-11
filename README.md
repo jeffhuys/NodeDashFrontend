@@ -8,3 +8,5 @@ You can also find this package on GitHub (https://github.com/jeffhuys/NodeDash).
 3. Browse to `http://your-server.com/NodeDashFrontend` and there you go!
 
 Note: please make sure you have configurated the frontend correctly.
+
+Licensed with GPL v2.
