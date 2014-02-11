@@ -1,0 +1,35 @@
+{
+  "name": "node-dash-frontend",
+  "version": "0.1.0",
+  "description": "a frontend to the node-dash npm package",
+  "main": "index.html",
+  "keywords": [
+    "graph",
+    "statistics",
+    "stats",
+    "cpu",
+    "ram",
+    "nodejs"
+  ],
+  "authors": [
+    "Jeff Huijsmans"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jeffhuys/NodeDashFrontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.4",
+    "angularjs-nvd3-directives": "~0.0.5-beta",
+    "nvd3": "1.1.15-beta"
+  },
+  "resolutions": {
+    "nvd3": "1.1.15-beta",
+    "d3": "~3.3.13"
+  }
+}

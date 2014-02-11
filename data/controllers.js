@@ -6,7 +6,7 @@ nodedashApp.controller('RootController', ['$scope', 'breadcrumbs', function($sco
 	$scope.breadcrumbs = breadcrumbs;
 
 	$scope.config = {};
-	$scope.config.socketAddress = 'cube.writebrite.nl:6278';
+	$scope.config.socketAddress = 'wheatley.writebrite.nl:6278';
 
 	$scope.reconnect = function() {
 		if($scope.socket) {
